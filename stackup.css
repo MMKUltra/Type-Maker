@@ -1,0 +1,46 @@
+#stats{
+  width: 60%;
+  margin: auto;
+}
+
+#statboard{
+  background-color: #666;
+  width: 100%;
+}
+
+#u-emblem{
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+#u-emblemimg{
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+
+.u-typename{
+  text-align: center;
+  font-size: 1.75em;
+}
+
+.st-prompt{
+  text-align: center;
+  font-size: 1.2em;
+}
+
+th{
+  border: 2px solid #222;
+}
+
+td{
+  min-height: 25px;
+  border-radius: 10px;
+}
+
+.itDoBe{
+  background-color: #69f;
+}

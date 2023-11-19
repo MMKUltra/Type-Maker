@@ -1,0 +1,43 @@
+@font-face {
+  font-family: pkmngb;
+  src: url(PokemonGb.ttf);
+}
+
+@font-face {
+  font-family: pkmnsld;
+  src: url(PokemonSolid.ttf);
+}
+
+body{
+  font-size: 14px;
+  background-color: #222222;
+  color: #ddd;
+  font-family: pkmngb, monospace;
+}
+
+
+
+.title{
+  margin-top: 50px;
+  font-size: 4em;
+  text-align: center;
+  font-family: pkmnsld, monospace;
+  text-shadow: 5px 5px 1px #000;
+  letter-spacing: 0.1em;
+}
+
+.start{
+  display: block;
+  margin: auto;
+  margin-top: 250px;
+  text-decoration: none;
+  font-size: 2em;
+  color: #eee;
+  background-color: #69e;
+  text-align: center;
+  padding: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 125px;
+  user-select: none;
+}

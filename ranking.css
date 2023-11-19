@@ -1,0 +1,71 @@
+#u-emblem{
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+#u-emblemimg{
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+
+.u-typename{
+  text-align: center;
+  font-size: 1.75em;
+}
+
+#effect{
+  display: flex;
+  width: 60%;
+  margin: auto;
+}
+
+.e-button{
+  display: block;
+  text-decoration: none;
+  font-size: 0.8em;
+  color: #eee;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 5px;
+  width: 100%;
+  user-select: none;
+}
+
+.hne-b{
+  background-color: rgb(200,100,50);
+}
+
+.nve-b{
+  background-color: rgb(200,120,100);
+}
+
+.n-b{
+  background-color: rgb(150,150,150);
+}
+
+.se-b{
+  background-color: rgb(100,120,200);
+}
+
+.im-b{
+  background-color: rgb(50,100,200);
+}
+
+.rankPrompt{
+  text-align: center;
+}
+
+.continue-b{
+  background-color: #69e;
+  width: 75px;
+  font-size: 1.2em;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+}
